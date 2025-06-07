@@ -31,7 +31,7 @@
 
 1. Fork the Repository
 
-Click the button below to fork the CRAZY V3 repository:
+Click the button below to fork the ANGEL MD repository:
 
 [![Fork CRAZ](https://img.shields.io/badge/Fork%20ANGEL%20MD-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Tyago557/ANGEL-MD/fork)
 
