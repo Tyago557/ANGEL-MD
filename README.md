@@ -1,17 +1,17 @@
-🤖 ANGEL-MD- WhatsApp Bot
+🤖 ANGEL-MD- WHATSAPP BOT 
 
 ![ANGEL-MD Banner](https://img1.pixhost.to/images/6331/608513148_imgtmp.jpg)
 
-![GitHub stars](https://img.shields.io/github/stars/DavidTechInc/CRAZY-V3?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/DavidTechInc/CRAZY-V3?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/DavidTechInc/CRAZY-V3?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/DavidTechInc/CRAZY-V3?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Tyago557/ANGEL-MD?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/Tyago557/ANGEL-MD?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/Tyago557/ANGEL-MD?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Tyago557/ANGEL-MD?style=flat-square)
 
 ---
 
 🚀 Introduction
 
-*CRAZY V3* is a powerful and feature-rich WhatsApp bot built using Node.js and the latest version of [Baileys](https://github.com/whiskeysockets/baileys). Designed for scalability and ease of use, ANGEL MD offers a wide range of commands and functionalities to enhance your WhatsApp experience.
+*ANGEL MD* is a powerful and feature-rich WhatsApp bot built using Node.js and the latest version of [Baileys](https://github.com/whiskeysockets/baileys). Designed for scalability and ease of use, ANGEL MD offers a wide range of commands and functionalities to enhance your WhatsApp experience.
 
 ---
 
@@ -33,7 +33,7 @@
 
 Click the button below to fork the CRAZY V3 repository:
 
-[![Fork CRAZ](https://img.shields.io/badge/Fork%20CRAZY%20V3-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/DavidTechInc/CRAZY-V3/fork)
+[![Fork CRAZ](https://img.shields.io/badge/Fork%20ANGEL%20MD-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Tyago557/ANGEL-MD/fork)
 
 2. Generate Session
 
@@ -122,7 +122,7 @@ jobs:
 
 *DarkMods🌹*
 
-- GitHub: [@Tyag557](https://github.com/Tyago557)
+- GitHub: [@Tyago557](https://github.com/Tyago557)
 
 ---
 
